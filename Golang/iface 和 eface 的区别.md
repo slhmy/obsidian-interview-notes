@@ -3,7 +3,9 @@ tags:
   - golang/接口
 ---
 > 参考：[青蛙小白——理解 Go interface 的两种底层实现：iface 和 eface](https://blog.frognew.com/2018/11/go-interface-iface-eface.html)
-> 具体 iface 的实现细节建议阅读原文
+> 
+> 具体 iface 的实现细节建议阅读原文，
+> 或者进一步阅读 [Go 程序员面试笔试宝典——接口](https://golang.design/go-questions/interface/) 部分内容。
 
 ## 区别
 
