@@ -1,4 +1,3 @@
 .obsidian/*
 !.obsidian/bookmarks.json
 !.obsidian/app.json
-!.obsidian/graph.json
