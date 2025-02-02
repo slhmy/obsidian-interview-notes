@@ -11,7 +11,7 @@ tags:
 
 Go 的 interface 分两类，
 一类是拥有方法集（MethodSet）的接口；
-另一个类是没有方法的空接口，也就是 `interface{}`。 
+另一个类是没有方法的空接口，也就是 `interface{}`。
 iface 和 eface 就分别在运行时表示这两个类接口类型的变量:
 
 - iface - 表示拥有方法的接口类型变量
